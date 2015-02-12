@@ -36,7 +36,7 @@ def check_maths():
 def check_people():
     global successful_tests
     global failed_tests
-    print "\n> Analyzing you brain through ultrasonic waves from the PC..."
+    print "\n> Analyzing your brain through ultrasonic waves from the PC..."
     sleep(randint(3, 7))
     
     your_opinion_about_me = "very very very handsome and intelligent"
@@ -113,7 +113,7 @@ def main():
     
     
     
-    print "Initializing vitulized parallel universe atomic bla bla bla emulator...\n"
+    print "Initializing virtualized parallel universe atomic bla bla bla emulator...\n"
     sleep(randint(4,7))
     
     check_maths()
